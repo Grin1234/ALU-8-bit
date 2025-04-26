@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time:                    0, rst = 0, D1 = 00000000, D2 = 00000000, Q = 00000000, sel = 00
+Time:                10000, rst = 1, D1 = 00000000, D2 = 00000000, Q = 00000000, sel = 00
+Time:                20000, rst = 0, D1 = 00000000, D2 = 00000000, Q = 00000000, sel = 00
+Time:                30000, rst = 0, D1 = 00010000, D2 = 00000000, Q = 00010000, sel = 00
+Time:                40000, rst = 0, D1 = 00010000, D2 = 00001000, Q = 00010000, sel = 00
+Time:                70000, rst = 0, D1 = 00010000, D2 = 00001000, Q = 00001000, sel = 01
+Time:                80000, rst = 0, D1 = 00010000, D2 = 00001000, Q = 00001001, sel = 10
+Time:                90000, rst = 0, D1 = 00010000, D2 = 00001000, Q = 00010111, sel = 11
+$finish called at time : 110 ns : File "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/FF_REG/new/MUX4N_tb.v" Line 117

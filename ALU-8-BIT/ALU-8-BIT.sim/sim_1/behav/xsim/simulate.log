@@ -1,0 +1,15 @@
+Time resolution is 1 ps
+Time = 0, rst = 0, D = 0, Q = 0
+Time = 10000, rst = 1, D = 0, Q = 0
+Time = 20000, rst = 0, D = 0, Q = 0
+Time = 30000, rst = 0, D = 1, Q = 0
+Time = 35000, rst = 0, D = 1, Q = 1
+Time = 40000, rst = 0, D = 0, Q = 1
+Time = 45000, rst = 0, D = 0, Q = 0
+Time = 50000, rst = 0, D = 1, Q = 0
+Time = 55000, rst = 0, D = 1, Q = 1
+Time = 60000, rst = 0, D = 0, Q = 1
+Time = 65000, rst = 0, D = 0, Q = 0
+Time = 70000, rst = 1, D = 0, Q = 0
+Time = 80000, rst = 0, D = 0, Q = 0
+$finish called at time : 100 ns : File "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sim_1/new/FF_tb.v" Line 57
