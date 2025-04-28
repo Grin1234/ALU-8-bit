@@ -1,0 +1,7 @@
+Running: xsim.dir/LRShift_tb_behav/xsimk.exe -simmode gui -wdb LRShift_tb_behav.wdb -simrunnum 0 -socket 51758
+Design successfully loaded
+Design Loading Memory Usage: 28564 KB (Peak: 28564 KB)
+Design Loading CPU Usage: 452 ms
+Simulation completed
+Simulation Memory Usage: 29444 KB (Peak: 29444 KB)
+Simulation CPU Usage: 484 ms

@@ -1,12 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/ALU_ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/BoothShift.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BoothShift
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/CLA_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLA_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/CLA_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLA_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/CLU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/Counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/Decode_Load.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decode_Load
 INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/FF.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module FF
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/Mux4N.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module Mux4N
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/NRDShift.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NRDShift
 INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/sources_1/new/RegisterN.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module RegisterN
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/FF_REG/new/MUX4N_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module MUX4N_tb
-WARNING: [VRFC 10-3248] data object 'D1' is already declared [C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/FF_REG/new/MUX4N_tb.v:36]
-WARNING: [VRFC 10-9364] second declaration of 'D1' is ignored [C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/FF_REG/new/MUX4N_tb.v:36]
-WARNING: [VRFC 10-3248] data object 'Q1' is already declared [C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/FF_REG/new/MUX4N_tb.v:37]
-WARNING: [VRFC 10-9364] second declaration of 'Q1' is ignored [C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/FF_REG/new/MUX4N_tb.v:37]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/FF_REG/new/ALU_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_tb

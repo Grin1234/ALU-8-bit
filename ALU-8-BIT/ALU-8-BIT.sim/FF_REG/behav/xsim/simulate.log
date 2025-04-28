@@ -1,10 +1,66 @@
 Time resolution is 1 ps
-Time:                    0, rst = 0, D1 = 00000000, D2 = 00000000, Q = 00000000, sel = 00
-Time:                10000, rst = 1, D1 = 00000000, D2 = 00000000, Q = 00000000, sel = 00
-Time:                20000, rst = 0, D1 = 00000000, D2 = 00000000, Q = 00000000, sel = 00
-Time:                30000, rst = 0, D1 = 00010000, D2 = 00000000, Q = 00010000, sel = 00
-Time:                40000, rst = 0, D1 = 00010000, D2 = 00001000, Q = 00010000, sel = 00
-Time:                70000, rst = 0, D1 = 00010000, D2 = 00001000, Q = 00001000, sel = 01
-Time:                80000, rst = 0, D1 = 00010000, D2 = 00001000, Q = 00001001, sel = 10
-Time:                90000, rst = 0, D1 = 00010000, D2 = 00001000, Q = 00010111, sel = 11
-$finish called at time : 110 ns : File "C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.srcs/FF_REG/new/MUX4N_tb.v" Line 117
+Time=0 A=00 Q=00 M=00 rez=0000 cs=00000000 count=0
+Time=35000 A=00 Q=00 M=05 rez=0000 cs=00000010 count=0
+Time=45000 A=00 Q=0a M=05 rez=0000 cs=01000000 count=0
+Time=55000 A=00 Q=0a M=05 rez=0000 cs=00000100 count=0
+Time=65000 A=05 Q=0a M=05 rez=0000 cs=00100000 count=1
+Time=75000 A=05 Q=0a M=05 rez=0005 cs=00000000 count=1
+Time=130000 A=00 Q=00 M=00 rez=0000 cs=00000000 count=0
+Time=155000 A=00 Q=00 M=05 rez=0000 cs=00000010 count=0
+Time=165000 A=00 Q=0a M=05 rez=0000 cs=01000000 count=0
+Time=175000 A=00 Q=0a M=05 rez=0000 cs=00001000 count=0
+Time=185000 A=fb Q=0a M=05 rez=0000 cs=00100000 count=1
+Time=195000 A=fb Q=0a M=05 rez=00fb cs=00000000 count=1
+Time=260000 A=00 Q=00 M=00 rez=0000 cs=00000000 count=0
+Time=285000 A=00 Q=00 M=05 rez=0000 cs=00000010 count=0
+Time=295000 A=00 Q=0a M=05 rez=0000 cs=01000000 count=0
+Time=305000 A=00 Q=0a M=05 rez=0000 cs=00010000 count=0
+Time=315000 A=00 Q=05 M=05 rez=0000 cs=10000000 count=0
+Time=325000 A=00 Q=05 M=05 rez=0000 cs=00001000 count=0
+Time=335000 A=fb Q=05 M=05 rez=0000 cs=00010000 count=1
+Time=345000 A=fd Q=82 M=05 rez=0000 cs=10000000 count=1
+Time=355000 A=fd Q=82 M=05 rez=0000 cs=00000100 count=1
+Time=365000 A=02 Q=82 M=05 rez=0000 cs=00010000 count=2
+Time=375000 A=01 Q=41 M=05 rez=0000 cs=10000000 count=2
+Time=385000 A=01 Q=41 M=05 rez=0000 cs=00001000 count=2
+Time=395000 A=fc Q=41 M=05 rez=0000 cs=00010000 count=3
+Time=405000 A=fe Q=20 M=05 rez=0000 cs=10000000 count=3
+Time=415000 A=fe Q=20 M=05 rez=0000 cs=00000100 count=3
+Time=425000 A=03 Q=20 M=05 rez=0000 cs=00010000 count=4
+Time=435000 A=01 Q=90 M=05 rez=0000 cs=10000000 count=4
+Time=445000 A=01 Q=90 M=05 rez=0000 cs=00010000 count=4
+Time=455000 A=00 Q=c8 M=05 rez=0000 cs=10000000 count=4
+Time=465000 A=00 Q=c8 M=05 rez=0000 cs=00010000 count=4
+Time=475000 A=00 Q=64 M=05 rez=0000 cs=10000000 count=4
+Time=485000 A=00 Q=64 M=05 rez=0000 cs=00010000 count=4
+Time=495000 A=00 Q=32 M=05 rez=0000 cs=10000000 count=4
+Time=505000 A=00 Q=32 M=05 rez=0000 cs=00100000 count=4
+Time=515000 A=00 Q=32 M=05 rez=0032 cs=00000000 count=4
+Time=540000 A=00 Q=00 M=00 rez=0000 cs=00000000 count=0
+Time=565000 A=00 Q=00 M=05 rez=0000 cs=00000010 count=0
+Time=575000 A=00 Q=0a M=05 rez=0000 cs=01000000 count=0
+Time=585000 A=00 Q=0a M=05 rez=0000 cs=00010000 count=0
+Time=595000 A=00 Q=14 M=05 rez=0000 cs=10000000 count=0
+Time=605000 A=00 Q=14 M=05 rez=0000 cs=00001000 count=0
+Time=615000 A=fb Q=14 M=05 rez=0000 cs=00010000 count=1
+Time=625000 A=f6 Q=28 M=05 rez=0000 cs=10000000 count=1
+Time=635000 A=f6 Q=28 M=05 rez=0000 cs=00000100 count=1
+Time=645000 A=fb Q=28 M=05 rez=0000 cs=00010000 count=2
+Time=655000 A=f6 Q=50 M=05 rez=0000 cs=10000000 count=2
+Time=665000 A=f6 Q=50 M=05 rez=0000 cs=00000100 count=2
+Time=675000 A=fb Q=50 M=05 rez=0000 cs=00010000 count=3
+Time=685000 A=f6 Q=a0 M=05 rez=0000 cs=10000000 count=3
+Time=695000 A=f6 Q=a0 M=05 rez=0000 cs=00000100 count=3
+Time=705000 A=fb Q=a0 M=05 rez=0000 cs=00010000 count=4
+Time=715000 A=f7 Q=40 M=05 rez=0000 cs=10000000 count=4
+Time=725000 A=f7 Q=40 M=05 rez=0000 cs=00000100 count=4
+Time=735000 A=fc Q=40 M=05 rez=0000 cs=00010000 count=5
+Time=745000 A=f8 Q=80 M=05 rez=0000 cs=10000000 count=5
+Time=755000 A=f8 Q=80 M=05 rez=0000 cs=00000100 count=5
+Time=765000 A=fd Q=80 M=05 rez=0000 cs=00010000 count=6
+Time=775000 A=fb Q=00 M=05 rez=0000 cs=10000000 count=6
+Time=785000 A=fb Q=00 M=05 rez=0000 cs=00000100 count=6
+Time=795000 A=00 Q=01 M=05 rez=0000 cs=00010000 count=0
+Time=805000 A=00 Q=02 M=05 rez=0000 cs=10000000 count=0
+Time=815000 A=00 Q=02 M=05 rez=0000 cs=00100000 count=0
+Time=825000 A=00 Q=02 M=05 rez=0002 cs=00000000 count=0

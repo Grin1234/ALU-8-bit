@@ -1,0 +1,20 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.479691",
+   "Default View_TopLeft":"-986,-467",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:21.0
+#  -string -flagsOSRD
+preplace inst Counter_0 -pg 1 -lvl 4 -x 720 -y -150 -defaultsOSRD
+preplace inst NRDShift_0 -pg 1 -lvl 4 -x 720 -y 470 -defaultsOSRD
+preplace inst BoothShift_0 -pg 1 -lvl 4 -x 720 -y -340 -defaultsOSRD
+preplace inst CLU_0 -pg 1 -lvl 5 -x 1080 -y -30 -defaultsOSRD
+preplace inst ALU_ControlUnit_0 -pg 1 -lvl 3 -x 170 -y -20 -defaultsOSRD
+preplace inst CLA_8_0 -pg 1 -lvl 2 -x -150 -y -290 -defaultsOSRD
+preplace inst CLA_4_0 -pg 1 -lvl 1 -x -470 -y -370 -defaultsOSRD
+preplace inst CLA_4_1 -pg 1 -lvl 1 -x -470 -y -190 -defaultsOSRD
+levelinfo -pg 1 -950 -470 -150 170 720 1080 1210
+pagesize -pg 1 -db -bbox -sgen -950 -720 1210 570
+"
+}
+
