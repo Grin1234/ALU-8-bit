@@ -34,7 +34,6 @@ CLA_4 CLA_4_inst2(
     .cout(cout)
 );
 
-// Fără registru! E combinator:
 assign out = (enable_add || enable_sub) ? {o2_out, o1_out} : 8'b0;
 
 endmodule

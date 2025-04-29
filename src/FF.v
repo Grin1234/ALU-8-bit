@@ -30,7 +30,7 @@ module FF(
     output reg Q
     );
     
-always @(posedge clk, negedge rst)
+always @(posedge clk, posedge rst)
 begin
     if(rst)
        Q <= 0;

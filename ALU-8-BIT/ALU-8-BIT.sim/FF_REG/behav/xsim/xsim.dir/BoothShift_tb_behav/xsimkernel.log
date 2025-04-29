@@ -1,7 +1,7 @@
-Running: xsim.dir/BoothShift_tb_behav/xsimk.exe -simmode gui -wdb BoothShift_tb_behav.wdb -simrunnum 0 -socket 56316
+Running: xsim.dir/BoothShift_tb_behav/xsimk.exe -simmode gui -wdb BoothShift_tb_behav.wdb -simrunnum 0 -socket 50119
 Design successfully loaded
-Design Loading Memory Usage: 28540 KB (Peak: 28540 KB)
-Design Loading CPU Usage: 452 ms
+Design Loading Memory Usage: 28516 KB (Peak: 28516 KB)
+Design Loading CPU Usage: 467 ms
 Simulation completed
-Simulation Memory Usage: 29436 KB (Peak: 29436 KB)
-Simulation CPU Usage: 484 ms
+Simulation Memory Usage: 29532 KB (Peak: 29532 KB)
+Simulation CPU Usage: 530 ms

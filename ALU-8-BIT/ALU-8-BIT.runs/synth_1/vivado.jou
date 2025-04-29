@@ -3,11 +3,11 @@
 # SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
 # IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
 # SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
-# Start of session at: Mon Apr 28 12:26:38 2025
-# Process ID         : 6488
+# Start of session at: Mon Apr 28 21:51:50 2025
+# Process ID         : 24024
 # Current directory  : C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.runs/synth_1
-# Command line       : vivado.exe -log impl_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source impl_top.tcl
-# Log file           : C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.runs/synth_1/impl_top.vds
+# Command line       : vivado.exe -log uart_echo_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source uart_echo_top.tcl
+# Log file           : C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.runs/synth_1/uart_echo_top.vds
 # Journal file       : C:/Users/catal/Desktop/ALU-8-BIT/ALU-8-BIT/ALU-8-BIT.runs/synth_1\vivado.jou
 # Running On         : DESKTOP-PGGP91I
 # Platform           : Windows Server 2016 or Windows 10
@@ -17,8 +17,8 @@
 # CPU Physical cores : 10
 # CPU Logical cores  : 16
 # Host memory        : 16866 MB
-# Swap memory        : 15725 MB
-# Total Virtual      : 32592 MB
-# Available Virtual  : 4463 MB
+# Swap memory        : 11845 MB
+# Total Virtual      : 28711 MB
+# Available Virtual  : 11323 MB
 #-----------------------------------------------------------
-source impl_top.tcl -notrace
+source uart_echo_top.tcl -notrace
